@@ -1,0 +1,60 @@
+.bg-primary-color{
+    background-color: rgb(237,173,226);
+}
+
+.bg-secundary-color {
+    background-color: rgb(236, 120, 120);
+}
+
+.w-10{
+    width: 10%;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.datepicker-h40px div, .h40px{
+    height: 40px !important;
+}
+
+
+.vh-100{
+    height: 100vh;
+}
+
+.h-full{
+    height: calc(100% - 54px);
+}
+
+.servicos-relatorios-table{
+    font-size: 12px;
+}
+
+.table-status{
+    font-size: 12px;
+}
+
+.table-date {
+    font-size: 14px;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.total-table{
+    font-size: 22px;
+}
